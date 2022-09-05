@@ -9,8 +9,11 @@ Membership NFT collection link -> https://testnet.rarible.com/collection/0x1249d
 ## Smart Contracts deployed:
 
 Membership NFT -> https://rinkeby.etherscan.io/address/0x1249deBf09051b4A506A0428E2fef022eBd8e35A
+
 Governance Token -> https://rinkeby.etherscan.io/address/0xb593061f8F770065be9EB5E82693E113a7Cc1F83
+
 Vote -> https://rinkeby.etherscan.io/address/0x278E7C5275f604f9A0a35F0A08bA8f604290123D
+
 
 
 
