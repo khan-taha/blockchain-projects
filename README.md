@@ -1,4 +1,4 @@
-# Project 2 - Mint your NFT collection  (Build a Web3 app with Solidity)
+# Project 2 - Mint your NFT collection
 
 project link -> https://buildspace.so/p/mint-nft-collection
 
