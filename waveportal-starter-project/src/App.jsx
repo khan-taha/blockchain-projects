@@ -184,7 +184,7 @@ useEffect(() => {
         </div>
 
         <div className="bio">
-          I am farza and I worked on self-driving cars so that's pretty cool right? Connect your Ethereum wallet and wave at me!
+          My name is Taha and I am a Software Engineer... Connect your Ethereum wallet and wave at me!
         </div>
         <input className="waveMessage" type="text" id="message" name="message" onChange={handleChange} value={message}/>
         <button className="waveButton" onClick={wave}>
